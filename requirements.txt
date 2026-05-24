@@ -1,0 +1,12 @@
+
+streamlit
+PyPDF2
+groq
+reportlab
+google.generativeai 
+python-dotenv
+PyGithub
+GitPython
+requests
+beautifulsoup4
+radon
